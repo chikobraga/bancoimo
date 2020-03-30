@@ -5,3 +5,11 @@ git commit
 git push -u origin master
 
 git pull
+
+
+---Comandos importantes ---
+
+python3.7 manage.py makemigrations
+python3.7 manage.py sqlmigrate bank 0001
+python3.7 manage.py migrate
+
